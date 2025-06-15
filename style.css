@@ -121,8 +121,8 @@ body {
 }
 
 .author {
-    padding-right: 100px;
-    margin-left: auto;
+    width: 800px;
+    text-align: end;
     font-size: 20px;
     font-weight: 900;
 }
