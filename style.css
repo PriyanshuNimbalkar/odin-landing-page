@@ -142,3 +142,12 @@ body {
 #btn-2 {
     border: 2px solid #e5e7eb;
 }
+
+.footer {
+    color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    font-size: 22px;
+}
