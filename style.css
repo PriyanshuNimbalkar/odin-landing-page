@@ -34,6 +34,7 @@ body {
     color: #e5e7eb;
     list-style-type: none;
     display: flex;
+    gap: 20px;
 }
 
 .sign-up {
